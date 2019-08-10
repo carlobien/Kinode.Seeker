@@ -1,0 +1,41 @@
+# Entries starting with '#' are ignored
+# Entries starting with '*' are wildcard entries
+# Non-wildcard entries shouldn't end with '\' 
+
+C:\$Recycle.Bin
+D:\$Recycle.Bin
+
+C:\avast! sandbox
+C:\Apps
+C:\Config.Msi
+C:\Dell
+C:\Documents and Settings
+C:\Drivers
+C:\inetpub
+C:\Intel
+C:\MSOCache
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\System Volume Information
+C:\Users\.NET v2.0 Classic
+C:\Users\.NET v4.5 Classic
+C:\Users\All Users
+C:\Users\Classic .NET AppPool
+C:\Users\Default
+C:\Users\Default User
+C:\Users\DefaultAppPool
+C:\Users\MSSQLSERVER
+C:\Users\SQLTELEMETRY
+C:\Windows
+
+*\AppData\Local\
+*\AppData\Roaming\
+*\Application Data
+*\.nuget\packages\
+*\.cisco\vpn\
+*\.vs\Extensions\
+*\obj\
+*\~$
