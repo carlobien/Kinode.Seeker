@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Seeker
+namespace Kinode.Seeker
 {
     public static class FileReader
     {

@@ -1,11 +1,12 @@
 ﻿using System;
 
-namespace Seeker
+namespace Kinode.Seeker
 {
     static class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(" K  I  N  O  D  E ");
             Console.WriteLine("╔═╗╔═╗╔═╗╦╔═╔═╗╦═╗");
             Console.WriteLine("╚═╗║╣ ║╣ ╠╩╗║╣ ╠╦╝");
             Console.WriteLine("╚═╝╚═╝╚═╝╩ ╩╚═╝╩╚═");

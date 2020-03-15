@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Seeker
+namespace Kinode.Seeker
 {
     public static class FileSize
     {

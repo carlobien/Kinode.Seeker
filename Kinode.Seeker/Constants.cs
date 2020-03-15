@@ -1,4 +1,4 @@
-﻿namespace Seeker
+﻿namespace Kinode.Seeker
 {
     public static class Constants
     {

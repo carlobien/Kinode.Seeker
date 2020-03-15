@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.IO;
 
-namespace Seeker
+namespace Kinode.Seeker
 {
     public static class FileLogger
     {
